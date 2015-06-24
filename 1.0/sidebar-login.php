@@ -1,16 +1,16 @@
 <?php
 /*
-Plugin Name: Sidebar Login
+Plugin Name: Side Login 
 Plugin URI: http://wordpress.org/extend/plugins/sidebar-login/
 Description: Allows you to easily add an ajax-enhanced login widget to the sidebar on your WordPress site.
-Version: 2.7.1
-Author: FAKHRUDDIN AHMED.
+Version: 1.0.0
+Author: FAKHRUDDIN AHMED(0808017),ROBUL ALAM(0908004)
 Author URI: http://mikejolley.com
 Requires at least: 3.5
 Tested up to: 3.9
 
-	Copyright: 2013 Mike Jolley.
-	License: GNU General Public License v3.0
+	Copyright: 2013 FAKHRUDDIN.
+	License: GNU General Public License v1.0
 	License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
 
